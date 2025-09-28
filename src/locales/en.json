@@ -1,0 +1,68 @@
+
+{
+  "home": {
+    "header": {
+      "title": "CitizEntry",
+      "nav": {
+        "home": "Home",
+        "pricing": "Pricing",
+        "about": "About us",
+        "contact": "Contact"
+      },
+      "login": "Login",
+      "touristLogin": "Tourist Login",
+      "authorityLogin": "Authority Login",
+      "signUp": "Sign Up"
+    },
+    "hero": {
+      "headline": "Your safety is<br />our priority.",
+      "subtext": "Enhancing tourist safety through technology."
+    },
+    "saferJourney": {
+      "heading": "Introducing a safer journey",
+      "subtext": "Join our community of safe travelers!",
+      "cta": "Try for free"
+    },
+    "howItWorks": {
+      "eyebrow": "How it works",
+      "headline": "How to enhance your safety",
+      "subtext": "Just 3 simple steps to travel safely. Our easy flow helps you create a secure digital ID, stay informed with alerts and enjoy peace of mind as you explore.",
+      "cta": "Sign up now",
+      "learnMore": "Learn more",
+      "steps": [
+        {
+          "title": "Step 1",
+          "description": "Create your secure digital ID. We verify identity using tamper-proof technology so you carry a trusted ID on your device."
+        },
+        {
+          "title": "Step 2",
+          "description": "Receive alerts and updates about safety incidents in areas you visit — timely notifications help you avoid unsafe situations."
+        },
+        {
+          "title": "Step 3",
+          "description": "Enjoy peace of mind while you explore. Use our verified profiles with partner hotels, tour operators, and local authorities."
+        }
+      ]
+    },
+    "whyChoose": {
+      "headline": "Why Choose CitizEntry?",
+      "features": [
+        {
+          "title": "Blockchain Security",
+          "description": "Every ID is verified with blockchain technology to prevent fraud and ensure safety."
+        },
+        {
+          "title": "Global Acceptance",
+          "description": "Trusted by international travel agencies and hotels for seamless verification."
+        },
+        {
+          "title": "Easy Access",
+          "description": "Your ID is always with you on your smartphone, no extra documents needed."
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2025 techvisioneers. All rights reserved."
+    }
+  }
+}
